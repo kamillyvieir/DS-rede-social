@@ -27,5 +27,3 @@ async function visualizarInformacoesGlobais() {
     }
 
     visualizarInformacoesGlobais()
-
-    /*Aula 04 */
